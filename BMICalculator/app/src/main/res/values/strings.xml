@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="height">Height</string>
+    <string name="weight">Weight</string>
+    <string name="calculate">Calculate</string>
+    <string name="lb">lb</string>
+    <string-array name="weight_units_array">
+        <item>lb</item>
+        <item>stone</item>
+    </string-array>
+    <string-array name="height_array">
+        <item>4\'11</item>
+        <item>5\'0</item>
+        <item>5\'1</item>
+        <item>5\'2</item>
+        <item>5\'3</item>
+        <item>5\'4</item>
+        <item>5\'5</item>
+        <item>5\'6</item>
+        <item>5\'7</item>
+        <item>5\'8</item>
+        <item>5\'9</item>
+        <item>5\'10</item>
+        <item>5\'11</item>
+        <item>6\'0</item>
+        <item>6\'1</item>
+        <item>6\'2</item>
+        <item>6\'3</item>
+        <item>6\'4</item>
+        <item>6\'5</item>
+        <item>6\'6</item>
+        <item>6\'7</item>
+        <item>6\'8</item>
+        <item>6\'9</item>
+        <item>6\'10</item>
+        <item>6\'11</item>
+    </string-array>
+</resources>
